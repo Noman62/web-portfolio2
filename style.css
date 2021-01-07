@@ -1,0 +1,104 @@
+body{
+    margin: 0px;
+}
+section
+{
+    padding-bottom: 140px;
+    overflow: hidden;
+}
+.link-button
+{
+    text-decoration: none;
+    border: 2px solid black;
+    background-color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg,lightSalmon,tomato);
+}
+
+.half-width
+{
+    width: 35%;
+    float: left;
+    margin-left: 10%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 35%;
+}
+
+.text
+{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.first{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+    box-shadow:10px 10px 40px gray ;
+    height: 100%;
+    border-radius: 10px;
+}
+.first img
+{
+    width: 25%;
+    height: 100%;
+}
+.half-button
+{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightSalmon,tomato);
+    padding: 14px 28px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.last-area
+{
+    background-image: url("image/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 150px 150px 200px 200px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 100px;
+    border-radius: 30px;
+}
+.half-area
+{
+    width: 35%;
+    float: left;
+    padding-left: 14px;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    font-weight: bold;
+    color: white;
+}
+.heading
+{
+    text-align: center;
+    font-weight: bold;
+    margin: 0px;
+}
+#button
+{
+    padding-left: 80%;
+    padding-top: 45px;
+    padding-bottom: 14px;
+}
+.highlight
+{
+    color: orange;
+}
+#resize{
+    width: 40%;
+}
+#font-text{
+    font-family: 'Lato', sans-serif;
+}
+
+
